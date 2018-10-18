@@ -1642,12 +1642,12 @@ header .menu {
   position: relative;
 }
 header .logo {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 header .logo img {
   float: left;
-  max-width: 460px;
+  max-width: 260px;
   margin-right: 3px;
 }
 header ul.menu li a.nav-link {
