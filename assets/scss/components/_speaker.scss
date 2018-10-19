@@ -10,7 +10,7 @@
     }
     .info_box{
       position: absolute;
-      bottom: 25px;
+      bottom: 19px;
       background-color: $color-black;
       padding: 10px 30px;
       @include single-transition(all, ease-in-out,0.4s);
