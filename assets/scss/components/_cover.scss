@@ -9,6 +9,7 @@
   position: relative;
   list-style: none;
   word-break: break-all;
+  
   .slider-content-center{
     max-width: 800px;
     margin: 0 auto;
@@ -44,7 +45,7 @@
           margin-bottom: 0;
           opacity: 0;
           font-weight: 500;
-          color: #ffffff;
+          color:#ffffff;
           text-transform: uppercase;
           -webkit-transform: translateY(20px);
           transform: translateY(20px);
